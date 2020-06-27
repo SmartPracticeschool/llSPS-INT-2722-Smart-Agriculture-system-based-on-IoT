@@ -8,7 +8,7 @@ organization = "mfymrj" #replace the ORG ID
 deviceType = "IOTdevice"#replace the Device type wi
 deviceId = "seconddevice"#replace Device ID
 authMethod = "token"
-authToken = "secondpassword" #Replace the authtoken
+authToken = "******" #Replace the authtoken
 
 def myCommandCallback(cmd): # function for Callback
         print("Command received: %s" % cmd.data)
