@@ -13,10 +13,10 @@ authToken = "******" #Replace the authtoken
 def myCommandCallback(cmd): # function for Callback
         print("Command received: %s" % cmd.data)
         if cmd.data['command']=='motor on':
-                print("MOTOR ON IS RECEIVED")
+                print("MOTOR ON is Received")
 
         elif cmd.data['command']=='motor off':
-                print("MOTOR OFF IS RECEIVED")
+                print("MOTOR OFF is Received")
 
         if cmd.command == "setInterval":
 
