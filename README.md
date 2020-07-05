@@ -8,3 +8,5 @@ can use this IoT based web app to control
 their irrigation motors remotely with just a simple click.
 
 Click the link for the project demonstration video https://youtu.be/H58vgHqoawk
+
+The Feedback video link is available here https://drive.google.com/file/d/1lh46R33otYiFvcMXUaGobAJjezB24D5h/view?usp=sharing
